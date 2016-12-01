@@ -1,5 +1,3 @@
-# projects
-
 ##Games
 
 - Connect Four ([Play Here](//actinium.github.io/projects/Connect4))
